@@ -1,3 +1,7 @@
+### Summary
+This repo contains code that utilizes VitPose in yoga pose detection and correction system
+
+
 ## Usage
 ### | **Inference**
 ```
